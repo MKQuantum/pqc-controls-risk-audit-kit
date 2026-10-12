@@ -66,6 +66,8 @@ A structured tool, generally a spreadsheet, for **identifying, assessing, and ma
 
 An example Risk and Controls Matrix from KPMG, which was designed  as a guide for professionals to use when confronted with the increasing use of AI in organisations across different levels of maturity. The example can be found here:  https://assets.kpmg.com/content/dam/kpmgsites/uk/pdf/2018/09/ai-risk-and-controls-matrix.pdf
 
+Another example. in a spreadsheet format, for Generative AI risk can be found [here](https://github.com/MKQuantum/pqc-controls-risk-audit-kit/blob/main/docs/GenAI%20Risk%20and%20Controls%20Matrix.xlsx)
+
 Indicative structure:
 
 - **Risk domain and risk ID**: for example governance and accountability, cryptographic inventory, data exposure ("harvest now, decrypt later"), third-party dependencies, cryptographic agility, migration program management, key management and PKI, and incident response

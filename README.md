@@ -1,4 +1,4 @@
-# Post Quantum Cryptography (PQC) Controls, Risk & Audit Resource Kit
+# Post Quantum Cryptography Controls, Risk & Audit Resource Kit
 
 <img width="1523" height="608" alt="image" src="https://github.com/user-attachments/assets/2a7ea1b9-9d75-4b1b-8222-60d70ade834d" />
 

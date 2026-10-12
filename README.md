@@ -33,7 +33,7 @@ A structured risk-and-controls approach is well-suited to this challenge because
 - **Prevents scope drift.** A clear engagement letter and RFI make sure auditors and auditees understand what is expected of each other before fieldwork begins.
 - **Supports Board oversight.** A structured report gives Audit Committees and Boards an evidence-based opinion on preparedness and the deficiencies that need to be addressed.
 
-<img width="1180" height="599" alt="image" src="https://github.com/user-attachments/assets/07626fe3-b22b-4b92-be46-d055cc168a08" />
+<img width="880" height="449" alt="image" src="https://github.com/user-attachments/assets/07626fe3-b22b-4b92-be46-d055cc168a08" />
 
 
 ## Who this is for
@@ -64,6 +64,8 @@ The kit is organized as a set of reusable, adaptable templates. Each piece can b
 ### 1. Risk and Controls Matrix
 
 A structured tool, generally a spreadsheet, for **identifying, assessing, and managing** quantum-related risks. It links PQC risk domains to the controls and frameworks organizations already use (for example COBIT, SOX, NIST Cybersecurity, ISO, and others), so that gaps can be identified using existing control language.
+
+An example Risk and Controls Matrix from KPMG, which was designed  as a guide for professionals to use when confronted with the increasing use of AI in organisations across different levels of maturity. The example can be found here:  https://assets.kpmg.com/content/dam/kpmgsites/uk/pdf/2018/09/ai-risk-and-controls-matrix.pdf
 
 Indicative structure:
 
@@ -124,7 +126,9 @@ The Risk and Controls Matrix is designed so that PQC risk and control domains ca
 
 ## Related work
 
-This kit complements other Quantum Readiness Working Group efforts, including the **TTX Scenario Planning Workstream**, which stress-tests plausible futures in which quantum-enabled attackers could trigger systemic and cascading failures. Where the TTX work explores how bad things could get, this workstream focuses on whether organizations can demonstrate, and have independently verified, that their controls are ready.
+This kit complements other Quantum Readiness efforts that are happening across the Open Source and Scientific community.  Including the [Open Quantum Safe Project](https://openquantumsafe.org) which supporting the transition to quantum-resistant cryptography and is part of the [Linux Foundation’s Post-Quantum Cryptography Alliance](https://pqca.org).
+
+<img width="728" height="329" alt="image" src="https://github.com/user-attachments/assets/917e1571-dbf6-485a-ac67-a73f9d3e5339" />
 
 ## About CFDIR and the Quantum Readiness Working Group
 

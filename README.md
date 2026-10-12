@@ -125,6 +125,12 @@ The Risk and Controls Matrix is designed so that PQC risk and control domains ca
 
 > The framework list above is indicative. Final mappings will be published in [`docs/`](./docs) alongside the matrix once reviewed by the working group.
 
+## Ways of Working
+The Working Group will use the following channels to track and organize work.
+
+1. Group email distribution list: tbd
+2. Meeting agenda and notes will be tracked and available in GitHub Issues.  
+
 ## Related work
 
 This kit complements other Quantum Readiness efforts that are happening across the Open Source and Scientific community.  Including the [Open Quantum Safe Project](https://openquantumsafe.org) which supporting the transition to quantum-resistant cryptography and is part of the [Linux Foundation’s Post-Quantum Cryptography Alliance](https://pqca.org).

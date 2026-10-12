@@ -49,13 +49,12 @@ A structured risk-and-controls approach is well-suited to this challenge because
 
 The kit is organized as a set of reusable, adaptable templates. Each piece can be used on its own or together as an end-to-end assurance toolkit.
 
-| Folder | What it is | Status | Example |
-| --- | --- | --- | --- |
-| [`risk-controls-matrix/`](./risk-controls-matrix) | The **Risk and Controls Matrix** (spreadsheet): PQC risk domains, control objectives, and control activities linked to common frameworks | Planned | Example |
-| [`audit-program/`](./audit-program) | **Audit Program documentation**: engagement letter, RFI, audit program, and audit report templates | Planned | Example | 
-| [`docs/`](./docs) | Methodology, risk domain definitions, framework mapping guide, glossary, and FAQ | Planned | Example |
-| [`examples/`](./examples) | Illustrative, fictional completed examples showing the templates in use | Planned | Example |
-| [`slides/`](./slides) | Summary material for working group and Board briefings | Planned | Example |
+| Folder | What it is | Status |
+| --- | --- | --- |
+| [`risk-controls-matrix/`](./risk-controls-matrix) | The **Risk and Controls Matrix** (spreadsheet): PQC risk domains, control objectives, and control activities linked to common frameworks | Planned |
+| [`audit-program/`](./audit-program) | **Audit Program documentation**: engagement letter, RFI, audit program, and audit report templates | Planned |
+| [`docs/`](./docs) | Methodology, risk domain definitions, framework mapping guide, glossary, and FAQ | Planned |
+| [`slides/`](./slides) | Summary material for working group and Board briefings | Planned |
 
 > Folder structure and deliverables are working-group drafts and may evolve as the workstream progresses.
 

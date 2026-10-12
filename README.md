@@ -83,9 +83,9 @@ A set of four linked documents covering the audit lifecycle:
 
 | Document | Purpose |
 | --- | --- |
-| **Engagement Letter** (draft) | Outlines the scope of the audit review and ensures auditors and auditees clearly understand what is expected of each other. Guards against scope drift. |
+| **Audit Plan** (draft)| Outlines the scope of the audit review and ensures auditors and auditees clearly understand what is expected of each other. Guards against scope drift. An example based on a Generative AI review can be found [here](https://github.com/MKQuantum/pqc-controls-risk-audit-kit/blob/main/docs/Generative%20AI%20Audit%20Plan.docx)|
 | **RFI (Request for Information)** | Lists the artifacts the auditors will request and the auditees will provide. |
-| **Audit Program** | A structured list of audit procedures that auditors use to conduct the review. |
+| **Audit Program** | A structured list of audit procedures that auditors use to conduct the review. An example based on a Generative AI review can be found [here](https://github.com/MKQuantum/pqc-controls-risk-audit-kit/blob/main/docs/GenAI%20Audit%20Program.docx) |
 | **Audit Report** | Provides an overview of the review and details any deficiencies or gaps that need to be addressed. |
 
 ```mermaid
@@ -129,7 +129,7 @@ The Risk and Controls Matrix is designed so that PQC risk and control domains ca
 The Working Group will use the following channels to track and organize work.
 
 1. Group email distribution list: tbd
-2. Meeting agenda and notes will be tracked and available in GitHub Issues.  
+2. Meeting agenda and notes will be tracked and available in [GitHub Issues](https://github.com/MKQuantum/pqc-controls-risk-audit-kit/issues).  
 
 ## Related work
 

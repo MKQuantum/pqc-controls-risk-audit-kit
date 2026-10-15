@@ -133,9 +133,15 @@ The Working Group will use the following channels to track and organize work.
 
 ## Related work
 
-This kit complements other Quantum Readiness efforts that are happening across the Open Source and Scientific community.  Including the [Open Quantum Safe Project](https://openquantumsafe.org) which supporting the transition to quantum-resistant cryptography and is part of the [Linux Foundation’s Post-Quantum Cryptography Alliance](https://pqca.org).
+This kit complements other Quantum Readiness efforts that are happening across the Open Source and Scientific community.  
+
+Including the [Open Quantum Safe Project](https://openquantumsafe.org) which supporting the transition to quantum-resistant cryptography and is part of the [Linux Foundation’s Post-Quantum Cryptography Alliance](https://pqca.org).
 
 <img width="728" height="329" alt="image" src="https://github.com/user-attachments/assets/917e1571-dbf6-485a-ac67-a73f9d3e5339" />
+
+The CFDIR Quantum Readiness Working Group contributed to the FS-ISAC report on [Timeline for Post Quantum Cryptographic Migration](https://www.fsisac.com/newsroom/fs-isac-urges-global-coordination-for-migration-to-post-quantum-cryptography-in-financial-services?utm_campaign=23725878-PQC&utm_content=348991661&utm_medium=social&utm_source=linkedin&hss_channel=lcp-152531).  As well as the Europol repot on [Prioritizing Post Quantum Cryptographic Migration Activities for Financial Services](https://www.europol.europa.eu/cms/sites/default/files/documents/Post-quantum-cryptography-report.pdf)
+
+<img width="584" height="418" alt="image" src="https://github.com/user-attachments/assets/bbf55d4d-3f1b-45b3-9796-d460c40a1820" />
 
 ## About CFDIR and the Quantum Readiness Working Group
 

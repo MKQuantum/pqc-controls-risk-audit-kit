@@ -13,65 +13,65 @@ _Control Description: not yet populated._
 </thead>
 <tbody>
 <tr>
-<td rowspan="5" align="center" valign="middle"><b>Strategy and governance</b></td>
-<td valign="top">Lack of a quantum readiness strategy</td>
+<td rowspan="5" align="center" valign="middle"><b>Strategy and Governance</b></td>
+<td valign="top">Lack of a Quantum Readiness Strategy</td>
 <td valign="top">Without a defined strategy and roadmap for the threat from cryptographically relevant quantum computers (CRQCs), migration to PQC becomes reactive and uncoordinated. It is likely to cost more than a planned multi-year transition and can leave long-lived sensitive data and critical services exposed. (GSMA §1.1; Deloitte GV.RM-03)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Strategy not aligned to mission and risk appetite</td>
+<td valign="top">Strategy not Aligned to Mission and Risk Appetite</td>
 <td valign="top">PQC effort that isn’t tied to the organisation’s mission, critical services and risk appetite can concentrate investment on low-impact systems while the assets the business depends on most remain vulnerable. (Deloitte GV.OC-01, GV.RM-02)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Policies not updated for quantum risk</td>
+<td valign="top">Policies not Updated for Quantum Risk</td>
 <td valign="top">Security, procurement and development policies that ignore PQC and crypto-agility, or aren’t revised as standards emerge, allow new quantum-vulnerable systems to keep entering the estate. (Deloitte GV.PO-01, GV.PO-02)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">No executive ownership or board visibility</td>
+<td valign="top">No Executive Ownership or Board Visibility</td>
 <td valign="top">Where quantum risk has no named executive owner and little board awareness, accountability is unclear and competing initiatives emerge. Decisions on funding, priorities and risk acceptance stall or are taken without the right authority. (GSMA §1.1; Deloitte GV.RR-01, GV.RM-04)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Fragmented cryptographic governance</td>
+<td valign="top">Fragmented Cryptographic Governance</td>
 <td valign="top">Without a central, cross-functional body such as a Cryptography Centre of Excellence, responsibility for cryptographic policy, key and certificate management and migration is spread across teams. The result is inconsistent standards and duplicated or missed work. (GSMA §3.1; Deloitte GV.RM-05)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td rowspan="5" align="center" valign="middle"><b>People and knowledge management</b></td>
+<td rowspan="5" align="center" valign="middle"><b>People and Knowledge Management</b></td>
 <td valign="top">Insufficient quantum and cryptography skills.</td>
 <td valign="top">A shortage of people who can interpret quantum threat guidance, assess cryptographic exposure and integrate PQC into systems, protocols and products delays assessment and migration. It also creates dependence on a few individuals or external parties. (GSMA §1.1, §5.2.3.1)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Low awareness and misjudged scope of the threat.</td>
+<td valign="top">Low Awareness and Misjudged Scope of the Threat.</td>
 <td valign="top">Architects, developers, procurement staff and business owners who don’t understand the quantum risk keep buying and building technology that relies on vulnerable cryptography. Misunderstanding which cryptography is affected also distorts investment. Public-key schemes such as RSA and elliptic-curve are fundamentally exposed, while symmetric cryptography and hash functions are affected far less. (Deloitte PR.AT, GV.RM-04; GSMA §5.2.3.2)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Outdated threat and timeline assumptions.<br>(Scale AI approach)</td>
+<td valign="top">Outdated Threat and Timeline Assumptions.<br>(Scale AI approach)</td>
 <td valign="top">If estimates of when a CRQC and capable threat actors will exist, and of the state of PQC standards, aren’t refreshed, priorities and migration timelines rest on stale assumptions. (GSMA §3.2, §4.1.1; Deloitte ID.RA-02)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Cryptography-related roles insufficiently protected.<br>(Scale AI approach)</td>
+<td valign="top">Cryptography-related Roles Insufficiently Protected.<br>(Scale AI approach)</td>
 <td valign="top">Staff and contractors who know the organisation’s cryptographic estate and its weaknesses may not be vetted or classified as sensitive, which raises insider and social-engineering exposure. (Deloitte GV.RR-04)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">Lessons and decisions not captured.</td>
+<td valign="top">Lessons and Decisions not Captured.</td>
 <td valign="top">If results from discovery, pilots, testing and risk decisions aren’t documented and fed back into the programme, improvements are missed and knowledge is lost when people move on. (Deloitte ID.IM, GV.OV)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td rowspan="3" align="center" valign="middle"><b>Third-party and supplier management</b></td>
-<td valign="top">Unknown supplier quantum readiness.</td>
+<td rowspan="3" align="center" valign="middle"><b>Third-party and Supplier Management</b></td>
+<td valign="top">Unknown Supplier Quantum Readiness.</td>
 <td valign="top">Suppliers such as software, cloud, hardware, device and managed-service providers may have no PQC roadmap, or may embed CRQC-vulnerable cryptography in their products (e.g. HSMs, PKI, firmware). If they can’t migrate, the organisation depends on a fix it doesn’t control. (GSMA §5.2.3.4; Deloitte GV.SC-04)</td>
 <td valign="top"></td>
 </tr>
 <tr>
-<td valign="top">No visibility of third-party cryptography.</td>
+<td valign="top">No Visibility of Third-party Cryptography.</td>
 <td valign="top">Without cryptographic bills of materials (CBOMs), supplier attestations and a clear shared-responsibility model, the organisation can’t build a complete inventory across SaaS, cloud and outsourced services. (Deloitte GV.SC-02, GV.SC-05, Appendix A; GSMA §5.4)</td>
 <td valign="top"></td>
 </tr>

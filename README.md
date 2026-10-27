@@ -54,7 +54,7 @@ The kit is organized as a set of reusable, adaptable templates. Each piece can b
 | [`risk-controls-matrix/`](./risk-controls-matrix) | The **Risk and Controls Matrix** (spreadsheet): PQC risk domains, control objectives, and control activities linked to common frameworks | Planned |
 | [`audit-program/`](./audit-program) | **Audit Program documentation**: engagement letter, RFI, audit program, and audit report templates | Planned |
 | [`docs/`](./docs) | Methodology, risk domain definitions, framework mapping guide, glossary, and FAQ | Planned |
-| [`slides/`](./slides) | Summary material for working group and Board briefings | Planned |
+| [`slides/`](./slides) | Summary material from conferences, from the working group, or for Board briefings | In Progress |
 
 > Folder structure and deliverables are working-group drafts and may evolve as the workstream progresses.
 
